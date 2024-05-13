@@ -1,0 +1,4 @@
+name: ekofishing
+version: '1.0-SNAPSHOT'
+main: org.imeko.ekofishing.ekofishing
+api-version: '1.20'
